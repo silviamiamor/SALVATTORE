@@ -1,0 +1,7 @@
+{
+  "name": "sigea-modelo-poo",
+  "version": "1.0.0",
+  "description": "Modelo de clases POO del SIGEA basado en el informe académico.",
+  "private": true,
+  "type": "module"
+}
